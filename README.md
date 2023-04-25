@@ -4,7 +4,7 @@
 
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/ayubhuruse1/osTicket---Prerequisites-and-Installation)
-  - [Landing page: Fylo landing page] (https://github.com/ayubhuruse1/Fylo-landing-page)
+  - [Landing page: Fylo landing page](https://github.com/ayubhuruse1/Fylo-landing-page)
 
 
 <h2>🤳Connect with me:</h2>
