@@ -4,6 +4,7 @@
 
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/ayubhuruse1/osTicket---Prerequisites-and-Installation)
+- <b> HTML and CSS projects</b>
   - [Landing page: Fylo landing page](https://github.com/ayubhuruse1/Fylo-landing-page)
   - [Ayub huruse portfolio website](https://github.com/ayubhuruse1/huruse-portfolio)
 
