@@ -7,6 +7,7 @@
 - <b> HTML and CSS projects</b>
   - [Landing page: Fylo landing page](https://github.com/ayubhuruse1/Fylo-landing-page)
   - [Ayub huruse portfolio website](https://github.com/ayubhuruse1/huruse-portfolio)
+  - [Huddle landing page](https://github.com/ayubhuruse1/huddle_Landingpage_project)
 
 
 <h2>🤳Connect with me:</h2>
